@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  cpf: 
+  nome: MyString
+  dtNascimento: 2016-04-05
+  qtdPontos: 
+  status: MyString
+
+two:
+  cpf: 
+  nome: MyString
+  dtNascimento: 2016-04-05
+  qtdPontos: 
+  status: MyString
